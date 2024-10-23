@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Oct 23 21:00:02 2024
+Quartus II 64-Bit Version : 9.1 Build 222 10/21/2009 SJ Full Version
+Revision Name : model8
+Top-level Entity Name : MODEL8
+Family : Cyclone II
+Device : EP2C5F256C6
+Timing Models : Final
+Total logic elements : 190 / 4,608 ( 4 % )
+    Total combinational functions : 176 / 4,608 ( 4 % )
+    Dedicated logic registers : 75 / 4,608 ( 2 % )
+Total registers : 75
+Total pins : 62 / 158 ( 39 % )
+Total virtual pins : 0
+Total memory bits : 2,048 / 119,808 ( 2 % )
+Embedded Multiplier 9-bit elements : 0 / 26 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

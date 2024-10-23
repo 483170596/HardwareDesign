@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Oct 23 20:59:59 2024
+Quartus II 64-Bit Version : 9.1 Build 222 10/21/2009 SJ Full Version
+Revision Name : model8
+Top-level Entity Name : MODEL8
+Family : Cyclone II
+Total logic elements : 194
+    Total combinational functions : 176
+    Dedicated logic registers : 75
+Total registers : 75
+Total pins : 62
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
